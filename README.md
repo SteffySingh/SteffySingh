@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SteffySingh
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently practicing my react skills
+- I have worked as a web developer (E-commerce wordpress Developer) for 3 years in a plant-based wellness company. 
+- In 3 years i mastered my skills in wordpress/woocommerce and now i want to master my react for front-end development.
+- My further plans would be to master in Full-stack.
+- 📫 You can reach me at steffysingh21@gmail.com
